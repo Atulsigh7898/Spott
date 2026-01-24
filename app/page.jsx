@@ -3,7 +3,6 @@ import Image from "next/image";
 import Link from "next/link";
 // import { Link } from "lucide-react";
 
-
 export default function Home() {
   return (
     <div>
@@ -43,8 +42,6 @@ export default function Home() {
               className="w-full h-auto"
               priority
             />
-
-        
         </div>
       </section>
     </div>
